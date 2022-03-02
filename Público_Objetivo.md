@@ -8,4 +8,6 @@ También, en el país otros temas comunes para los despachos legales son pension
 
 Fuente: [Página de WJP](https://worldjusticeproject.mx/acceso-a-la-justicia-problemas/#:~:text=Los%20problemas%20legales%20en%20M%C3%A9xico&text=%5B1%5DLos%20problemas%20m%C3%A1s%20frecuentes,p%C3%BAblicos%20como%20agua%20o%20luz.)
 
-Así, se establece como público objetivo lo descrito en el siguiente gráfico.
+Así, se establece como público objetivo lo descrito en el siguiente gráfico realizado en Miro.
+
+[Board de público objetivo](https://miro.com/welcomeonboard/SVpRQVZoTHM5UFlWeXFGY2RxTms1clhDaTd1NlZhcWloTjVXNFpXZmFQZTExREllWTVkTTBxZjJ3elJLR29URXwzMDc0NDU3MzU2NTY5MjUyMTEx?invite_link_id=181456435458)
