@@ -22,4 +22,4 @@ Descripción:
 - [Requerimientos](https://github.com/semilun4/LaunchX_IntroFront/blob/main/Requerimientos.doc)
 - [Buyer Persona](https://github.com/semilun4/LaunchX_IntroFront/blob/main/Buyer_Persona.pdf)
 - [Público Objetivo](https://github.com/semilun4/LaunchX_IntroFront/blob/main/Público_Objetivo.md)
-- [Wireframe](https://github.com/semilun4/LaunchX_IntroFront/blob/main/Wireframe a mano.pdf)
+- [Wireframe](https://github.com/semilun4/LaunchX_IntroFront/blob/main/Wireframe.pdf)
