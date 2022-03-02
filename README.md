@@ -19,3 +19,6 @@ Descripción:
 - La preferencia de colores del cliente es **azul marino y blanco**, pero acepta propuestas.
 
 ## Contenido
+- [Requerimientos](https://github.com/semilun4/LaunchX_IntroFront/blob/main/Requerimientos.doc)
+- [Buyer Persona](https://github.com/semilun4/LaunchX_IntroFront/blob/main/Buyer_Persona.pdf)
+- 
