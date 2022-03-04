@@ -12,4 +12,5 @@ Colores propuestos
 
 
 Para el proyecto de **Abogabot** se maquetaron los diseños en la plataforma Figma
+
 [Link a Figma](https://www.figma.com/file/vKoTtrHLsLMqwhPi7RBB3O/Abogabot?node-id=3%3A30)
