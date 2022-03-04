@@ -23,3 +23,5 @@ Descripción:
 - [Buyer Persona](https://github.com/semilun4/LaunchX_IntroFront/blob/main/Buyer_Persona.pdf)
 - [Público Objetivo](https://github.com/semilun4/LaunchX_IntroFront/blob/main/Público_Objetivo.md)
 - [Wireframe](https://github.com/semilun4/LaunchX_IntroFront/blob/main/Wireframe.pdf)
+- [Interfaz de usuario](https://github.com/semilun4/LaunchX_IntroFront/blob/main/UI.md)
+
